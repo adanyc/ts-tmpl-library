@@ -1,0 +1,11 @@
+coverage/
+node_modules/
+src/
+.commitlintrc.json
+.editorconfig
+.gitignore
+.huskyrc.json
+commitlint.config.js
+jest.config.js
+rollup.config.js
+tsconfig.json
